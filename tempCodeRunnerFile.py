@@ -1,0 +1,5 @@
+        # tree.insert('', 'end', values=(d[5], d[6],d[7]))
+        # tree.insert('', 'end', values=(d[6], d[7]))
+        # tree.insert('', 'end', values=(d[8], d[9]))
+        # tree.insert('', 'end', values=(d[10], d[11]))
+        # tree.insert('', 'end', values=(d[12], d[13]))
